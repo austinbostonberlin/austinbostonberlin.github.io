@@ -1,13 +1,13 @@
 # Site settings
-title: Max Bernstein
+title: Lydia Krifka-Dobes
 # Site's name
-name: Max Bernstein's Blog
-author: Max Bernstein
-author_nickname: Max Bernstein
-email: max@bernsteinbear.com
-description: ""
+name: Lydia Krifka-Dobes' Blog
+author: Lydia Krifka-Dobes
+email: oiooiioo@tuta.io
+description: "sound + code + research"
 baseurl: ""
-url: "https://bernsteinbear.com"
+url: "https://austinbostonberlin.github.io"
+
 exclude: [vendor]
 # TODO(max): Use pagefind (pagefind --source . --root-selector .container) but
 # avoid scanning _site somehow.
@@ -15,12 +15,9 @@ include: [.well-known]
 
 future: false
 
-twitter:
-  username: tekknolagi
-
 repo:
-  repository_url: https://github.com/tekknolagi/tekknolagi.github.com
-  branch: main
+    repository_url: https://github.com/austinbostonberlin/austinbostonberlin.github.io
+    branch: main
 
 permalink: '/blog/:title/'
 post_dirs: false
@@ -28,8 +25,8 @@ post_dirs: false
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM # GitHub Flavored Markdown
-  hard_wrap: false
+    input: GFM # GitHub Flavored Markdown
+    hard_wrap: false
 highlighter: rouge
 
 plugins:
@@ -37,13 +34,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - rouge
-
-collections:
-    blog_lisp:
-        output: true
-        permalink: /blog/lisp/:path/
-    recipes:
-        output: true
-        permalink: /recipes/:path/
-
-default_og_image: "/favicon.ico"
