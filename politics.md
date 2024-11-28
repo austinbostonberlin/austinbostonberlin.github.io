@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
+title: Political Notes and News Items
 ---
-
-# Political Notes and News Items
 
 ## November 24, 2024
 ### Turkish Currency Crisis Analysis
