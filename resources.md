@@ -1,8 +1,7 @@
 ---
 layout: page
-title:
+title: Resources
 ---
-# Resources  
 
 This list has been curated for [Samir Tmajchi](https://samirtmajchi.com) and friends.
 

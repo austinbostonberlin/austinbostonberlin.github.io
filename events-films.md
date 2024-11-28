@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: Friends and Collaborators
 permalink: /events-films/
 ---
-
-# Friends and Collaborators
 
 ### Calendar
 
