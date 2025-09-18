@@ -13,6 +13,7 @@ I’m Lydia Krifka-Dobes— I study Sound and Music Computing as a computer-arti
 
 ## Studies and Background  
 
+- *Study at* [Sound and Music Computing]([https://www.sonology.org/](https://www.upf.edu/web/smc/overview))  
 - *Studied at* [Institute of Sonology](https://www.sonology.org/)  
 - *Studied at* [School for Poetic Computation](https://sfpc.io/)  
 - *Based in* Barcelona, Spain
@@ -20,17 +21,8 @@ I’m Lydia Krifka-Dobes— I study Sound and Music Computing as a computer-arti
 ---
 
 ```javascript
-system_boot = {
-   artist: "lydia_krifka-dobes",
-   location: "berlin",
-   status: "exploring_the_glitch",
-   focus: ["sound", "identity", "technology"],
-   collaborators: ["humans", "machines", "systems"]
-}
+explore this blog documenting and sharing coursework for future students.
 ```
-## About
-
-I document coursework here for future studente in the field for sake of exploration.
 
 ## Current Research
 
