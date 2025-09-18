@@ -7,20 +7,15 @@ layout: page
 
 # Lydia Krifka-Dobes  
 
-I’m Lydia Krifka-Dobes—I work with [Samir Timajchi](https://samirtmajchi.com) as a computer-artist.  
-- *Computer:* (99% open source software and hardware, 1% other)  
-- *Artist:* (51% sound and 49% other mediums)  
+I’m Lydia Krifka-Dobes— I study Sound and Music Computing as a computer-artist. Read more about SMC group here. I work creatively in the lower levels of graphical computational systems & researching *the* future of computer art. I completed my  Bachelors thesis at the Institute of Sonology under the supervision of Richard Barett and members of the ZAS Center for General Language Studies Berlin under the supervision of Prof. Marzena Zygis. Since 2020, I has been investigating the coupling of the *Real*, the *Imaginary*, and the *Virtual* through a series of interdisciplinary research residencies. My broader interest in HCI expands into fields of wearable computing, ambient technology, smart textile, and fashion. In 2022, I entered the world of musical composition by creating audiovisual installation ”Wandering the Piano" that was qualified to international festivals including Venice Biennale Musica in 2023.
 
 ---
 
 ## Studies and Background  
 
-- *Studies at* [Institute of Sonology](https://www.sonology.org/)  
-- *Gap Year at* Conservator Evangelicky Academy  
-- *High School* at Beethoven Gymnasium  
+- *Studied at* [Institute of Sonology](https://www.sonology.org/)  
 - *Studied at* [School for Poetic Computation](https://sfpc.io/)  
-- *Based in* Den Haag and Berlin  
-- *Born in* Austin, Texas  
+- *Based in* Barcelona, Spain
 
 ---
 
@@ -35,15 +30,13 @@ system_boot = {
 ```
 ## About
 
-I write about experimental music, art-technology hybrids, and the poetics of code. Collaborate with me! I’m always open to new projects and opportunities.
-
-You can email me at opensourcereartwork@gmail.com if you want to discuss art, technology, identity, or anything in between. I’m happy to engage in mind-expanding conversations!
+I document coursework here for future studente in the field for sake of exploration.
 
 ## Current Research
 
 ## Research Projects Overview  
 
-Our work operates at the intersection of *thermal-acoustic interaction, **language preservation through computational methods, and **deep fake transformation* using advanced machine learning pipelines.
+My current work integrates *thermal-acoustic interaction, **language preservation through computational methods, and **deep fake transformation* using advanced machine learning pipelines.
 
 ---
 
