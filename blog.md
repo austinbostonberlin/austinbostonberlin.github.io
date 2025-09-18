@@ -1,68 +1,48 @@
 ---
-title: SMC
+title: Thesis
 layout: page
 blog_index: true
-permalink: smc/
-smc:
-    - 9/18 Wednesday - Day 1
-    - 9/19 Thursday - Day 2
-    - 9/20 Friday - Day 3
-    - 9/21 Saturday - Day 4
-    - 9/22 Sunday - Day 5
-    - 9/23 Monday - Day 6
-    - 9/24 Tuesday - Day 7
-    - 9/25 Wednesday - Day 8
-    - 9/26 Thursday - Day 9
-    - 9/27 Friday - Day 10
-    - 9/28 Saturday - Day 11
-    - 9/29 Sunday - Day 12
-    - October
-    - 10/1 Tuesday - Day 13
-    - 10/2 Wednesday - Day 14
-    - 10/3 Thursday - Day 15
-    - 10/4 Friday - Day 16
-    - 10/5 Saturday - Day 17
-    - 10/6 Sunday - Day 18
-    - 10/7 Monday - Day 19
-    - 10/8 Tuesday - Day 20
-    - 10/9 Wednesday - Day 21
-    - 10/10 Thursday - Day 22
-    - 10/11 Friday - Day 23
-    - 10/12 Saturday - Day 24
-    - 10/13 Sunday - Day 25
-    - 10/14 Monday - Day 26
-    - 10/15 Tuesday - Day 27
-    - 10/16 Wednesday - Day 28
-    - 10/17 Thursday - Day 29
-    - 10/18 Friday - Day 30
+permalink: blog/
+thesis:
+    - 11/21 Thursday - Day 1
+    - 11/22 Friday - Day 2
+    - 11/23 Saturday - Day 3
+    - 11/24 Sunday - Day 4
+    - 11/25 Monday - Day 5
+    - 11/26 Tuesday - Day 6
+    - 11/27 Wednesday - Day 7
+    - 11/28 Thursday - Day 8
+    - 11/29 Friday - Day 9
+    - 11/30 Saturday - Day 10
+    - December
+    - 12/1 Sunday - Day 11
+    - 12/2 Monday - Day 12
+    - 12/3 Tuesday - Day 13
+    - 12/4 Wednesday - Day 14
+    - 12/5 Thursday - Day 15
+    - 12/6 Friday - Day 16
+    - 12/7 Saturday - Day 17
+    - 12/8 Sunday - Day 18
+    - 12/9 Monday - Day 19
+    - 12/10 Tuesday - Day 20
+    - 12/11 Wednesday - Day 21
+    - 12/12 Thursday - Day 22
+    - 12/13 Friday - Day 23
+    - 12/14 Saturday - Day 24
+    - 12/15 Sunday - Day 25
+    - 12/16 Monday - Day 26
+    - 12/17 Tuesday - Day 27
+    - 12/18 Wednesday - Day 28
+    - 12/19 Thursday - Day 29
+    - 12/20 Friday - Day 30
 ---
 <ul>
-    {% for list in page.smc %}
+    {% for list in page.thesis %}
     <li class="post-item">
         <a class="post-title" href="{{ list }}"><span>{{ list }}</span></a>
     </li>
     {% endfor %}
 </ul>
-
-# Term 1 - Compulsory Subjects
-- **Music Perception & Cognition** (5 ECTS)
-- **Machine Learning for Sound and Music** (5 ECTS)  
-- **Digital Signal Processing for Sound and Music** (5 ECTS)
-- **Research Methodology** (5 ECTS)
-
-# Term 2 - Compulsory Subjects
-- **Music Information Retrieval** (5 ECTS)
-- **Symbolic Music Analysis and Computational Musicology** (5 ECTS)
-- **Generative Algorithms for Sound and Music** (5 ECTS)
-
-# Term 3 - Optional Subjects
-- **Sound Communication** (5 ECTS)
-
-# Second Year Considerations
-- **Machine Learning** (5 ECTS)
-- **Practicum** (20 ECTS)
-- **Advanced Computing Techniques for Sound and Music** (5 ECTS)
-
 # Writings
 <ul>
     {% for post in site.posts %}
