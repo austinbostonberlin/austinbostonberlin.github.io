@@ -7,7 +7,7 @@
     <a href="/" target="_blank">Portfolio</a>
   </div>
   <br />
-  See an error? Send me an email instead.
+  See an error? Send me an email.
   <br />
   <a href="https://notbyai.fyi/"><img style="padding-top: 5px;" src="/assets/img/notbyai.svg" /></a>
 </footer>
