@@ -7,15 +7,22 @@ layout: page
 
 # Lydia Krifka-Dobes  
 
-I’m Lydia Krifka-Dobes— I study Sound and Music Computing as a computer-artist. Read more about SMC group here. I work creatively in the lower levels of graphical computational systems & researching *the* future of computer art. I completed my  Bachelors thesis at the Institute of Sonology under the supervision of Richard Barett and members of the ZAS Center for General Language Studies Berlin under the supervision of Prof. Marzena Zygis. Since 2020, I has been investigating the coupling of the *Real*, the *Imaginary*, and the *Virtual* through a series of interdisciplinary research residencies. My broader interest in HCI expands into fields of wearable computing, ambient technology, smart textile, and fashion. In 2022, I entered the world of musical composition by creating audiovisual installation ”Wandering the Piano" that was qualified to international festivals including Venice Biennale Musica in 2023.
+I’m Lydia Krifka-Dobes— I study Sound and Music Computing as a computer-artist.
 
 ---
 
 ## Studies and Background  
 
-- *Study at* [Sound and Music Computing]([https://www.sonology.org/](https://www.upf.edu/web/smc/overview))  
-- *Studied at* [Institute of Sonology](https://www.sonology.org/)  
-- *Studied at* [School for Poetic Computation](https://sfpc.io/)  
+- I work creatively in the lower levels of graphical computational systems & researching *the* future of computer art.
+- I completed my  Bachelors thesis at the Institute of Sonology under the supervision of Richard Barett and members of the ZAS Center for General Language Studies Berlin under the supervision of Prof. Marzena Zygis.
+- Since 2020, I has been investigating the coupling of the *Real*, the *Imaginary*, and the *Virtual* through a series of interdisciplinary research residencies.
+- My broader interest in HCI expands into fields of wearable computing, ambient technology, smart textile, and fashion.
+- In 2022, I entered the world of musical composition by creating audiovisual installation ”Wandering the Piano" that was qualified to international festivals including Venice Biennale Musica in 2023.
+
+- *Read more about the history of SMC here* [Sound and Music Computing]([https://www.sonology.org/](https://www.upf.edu/web/smc/overview))  
+- *Read more about the history of Sonology here* [Sound and Music Computing]([https://www.sonology.org/](https://www.upf.edu/web/smc/overview))  
+- *Read more about the history of School for Poetic Computation here* [Venice Biennale Musica](https://www.labiennale.org/en/music/2023/biennale-musica-2023/lydia-krifka-dobes-wandering-piano-2023-10-21-10-00)
+- *Read more about my installation at the Venice Biennale here*
 - *Based in* Barcelona, Spain
 
 ---
