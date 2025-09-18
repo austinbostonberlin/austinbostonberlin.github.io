@@ -1,5 +1,5 @@
 ---
-title: On the universal relation
+title: Music Perception & Cognition
 layout: post
 ---
 
