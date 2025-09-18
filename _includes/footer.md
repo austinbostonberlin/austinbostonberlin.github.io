@@ -7,8 +7,7 @@
     <a href="/" target="_blank">Portfolio</a>
   </div>
   <br />
-  See an error? Go ahead and
-  <a href="{{ site.repo.repository_url }}/edit/{{ site.repo.branch }}/{{ page.path }}" title="Help improve {{ page.path }}">propose a change</a>.
+  See an error? Send me an email instead.
   <br />
   <a href="https://notbyai.fyi/"><img style="padding-top: 5px;" src="/assets/img/notbyai.svg" /></a>
 </footer>
