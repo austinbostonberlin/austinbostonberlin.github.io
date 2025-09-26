@@ -4,7 +4,7 @@ layout: page
 blog_index: true
 permalink: blog/
 thesis:
-    - 11/21 Thursday - Day 1 "Anything associated with Google is a nightmare, is compromised or plain sterilized like the rest of the internet is today , if you hate popups, sign in modals, overcomplicated captcha puzzles and anything irritating blame those weirdos at Alphabet"
+    - 09/26 Thursday - Day 1 "Anything associated with Google is a nightmare, is compromised or plain sterilized like the rest of the internet is today , if you hate popups, sign in modals, overcomplicated captcha puzzles and anything irritating blame those weirdos at Alphabet"
     - 11/22 Friday - Day 2
     - 11/23 Saturday - Day 3
     - 11/24 Sunday - Day 4
